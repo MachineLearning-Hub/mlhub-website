@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mlhub-website.iml" filepath="$PROJECT_DIR$/.idea/mlhub-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nishaan-ai-website/.idea/nishaan-ai-website.iml" filepath="$PROJECT_DIR$/../nishaan-ai-website/.idea/nishaan-ai-website.iml" />
     </modules>
   </component>
 </project>
