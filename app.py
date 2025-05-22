@@ -4,8 +4,8 @@ app = Flask(__name__, template_folder='templates', static_folder='static')
 
 
 @app.route('/')
-def hello_world():
-    return render_template('index.html')
+def home():
+    return render_template('home.html')
 
 
 if __name__ == '__main__':
